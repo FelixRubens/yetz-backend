@@ -1,0 +1,26 @@
+{
+  "name": "palyer",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "awilix": "^4.3.4",
+    "aws-sdk": "^2.924.0",
+    "interface": "link:../../interface",
+    "knex": "^0.95.6",
+    "mysql": "^2.16.0",
+    "objection": "^3.0.1",
+    "serverless": "^4.2.4",
+    "serverless-offline": "^13.7.0",
+    "sls": "^0.1.0",
+    "use_cases": "link:../../use_cases",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "serverless-prune-plugin": "^2.0.1"
+  }
+}

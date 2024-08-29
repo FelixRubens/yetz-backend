@@ -1,0 +1,11 @@
+{
+  "name": "baumerapp-interface",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "domain": "link:../domain",
+    "use_cases": "link:../use_cases"
+  }
+}

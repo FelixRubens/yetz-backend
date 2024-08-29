@@ -1,0 +1,26 @@
+{
+  "body": {
+    "players": [
+      { "name": "João Silva", "skillLevel": 3, "isGoalkeeper": false },
+      { "name": "Carlos Souza", "skillLevel": 4, "isGoalkeeper": true },
+      { "name": "Ricardo Oliveira", "skillLevel": 2, "isGoalkeeper": false },
+      { "name": "Pedro Lima", "skillLevel": 5, "isGoalkeeper": false },
+      { "name": "Lucas Santos", "skillLevel": 1, "isGoalkeeper": false },
+      { "name": "Marcos Costa", "skillLevel": 4, "isGoalkeeper": false },
+      { "name": "André Pereira", "skillLevel": 2, "isGoalkeeper": true },
+      { "name": "Fernando Almeida", "skillLevel": 3, "isGoalkeeper": false },
+      { "name": "Rafael Carvalho", "skillLevel": 1, "isGoalkeeper": false },
+      { "name": "Thiago Ramos", "skillLevel": 5, "isGoalkeeper": false },
+      { "name": "Gabriel Fernandes", "skillLevel": 3, "isGoalkeeper": false },
+      { "name": "Gustavo Rocha", "skillLevel": 4, "isGoalkeeper": false },
+      { "name": "Daniel Nunes", "skillLevel": 2, "isGoalkeeper": false },
+      { "name": "Rodrigo Araujo", "skillLevel": 5, "isGoalkeeper": false },
+      { "name": "Felipe Correia", "skillLevel": 1, "isGoalkeeper": false },
+      { "name": "Bruno Ribeiro", "skillLevel": 4, "isGoalkeeper": false },
+      { "name": "Eduardo Martins", "skillLevel": 3, "isGoalkeeper": false },
+      { "name": "Henrique Mendes", "skillLevel": 2, "isGoalkeeper": false },
+      { "name": "Diego Lima", "skillLevel": 5, "isGoalkeeper": true },
+      { "name": "Leandro Barros", "skillLevel": 1, "isGoalkeeper": false }
+    ]
+  }
+}

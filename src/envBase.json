@@ -1,0 +1,7 @@
+{
+  "DB_HOST": "yetz-db.cvsek4mugosf.sa-east-1.rds.amazonaws.com",
+  "DB_USER": "admin",
+  "DB_NAME": "yetz",
+  "DB_PASSWORD": "",
+  "DB_PORT": 3306
+}

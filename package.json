@@ -1,22 +1,21 @@
 {
-  "name": "websocket",
+  "name": "yetz_test",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "knex": "knex",
+    "create-migration": "knex migrate:make",
+    "migrate": "knex migrate:latest",
+    "rollback": "knex migrate:rollback"
   },
-  "author": "",
+  "author": "Rubens Felix",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "awilix": "^4.3.4",
-    "aws-sdk": "^2.924.0",
-    "interface": "link:../../interface",
-    "knex": "^0.95.6",
-    "mysql": "^2.16.0",
-    "objection": "^3.0.1",
-    "use_cases": "link:../../use_cases"
-  },
-  "devDependencies": {
-    "serverless-prune-plugin": "^1.4.4"
+    "awilix": "^11.0.0",
+    "aws-sdk": "^2.1684.0",
+    "knex": "^3.1.0",
+    "mysql": "^2.18.1"
   }
 }
